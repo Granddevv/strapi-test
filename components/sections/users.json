@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_sections_users",
+  "info": {
+    "name": "users",
+    "icon": "user-tie",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "role": {
+      "type": "string"
+    }
+  }
+}

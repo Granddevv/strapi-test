@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_sections_jobs",
+  "info": {
+    "name": "jobs",
+    "icon": "bell",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}
